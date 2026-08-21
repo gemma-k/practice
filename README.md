@@ -1,5 +1,5 @@
 # My First Assigment
-![About me](Ocean-people.jpg)
+![About me](Ocean-People.jpg)
 ## About Me
 I love ocean and sunset.
 ## Past Coding Experience
